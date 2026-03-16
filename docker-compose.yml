@@ -19,6 +19,6 @@ services:
       MYSQL_DATABASE: demo_docker_db
     volumes:
       - db_data:/var/lib/mysql
-
+git
 volumes:
   db_data:
